@@ -1,0 +1,28 @@
+{
+  "acceptedOffer": [
+    {
+      "itemOffered": {
+        "image": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13072841_XL1.jpg",
+        "name": "Johnson's Baby Wipes - Moisturizes & Protects"
+      },
+      "price": "$11.95",
+      "priceCurrency": "SGD",
+      "eligibleQuantity": {
+        "value": " 1"
+      }
+    }
+  ],
+  "orderNumber": "1234567",
+  "orderDelivery": {
+    "deliveryAddress": "123 Baker Street #01-01, 123456",
+    "expectedArrivalFrom": "2020-10-10T06:00:00.000Z",
+    "expectedArrivalUntil": "2020-10-10T08:00:00.000Z"
+  },
+  "invoice": {
+    "currency": "SGD",
+    "subtotal": "$10.00",
+    "deliveryFee": "$2.00",
+    "serviceFee": "$1.00",
+    "grandTotal": "$13.00"
+  }
+}
